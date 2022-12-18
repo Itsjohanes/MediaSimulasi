@@ -111,6 +111,23 @@
 
      <hr class="sidebar-divider d-none d-md-block">
      <?php
+        if ($title == 'Game') {
+            echo "<li class='nav-item active'>";
+        } else {
+            echo "<li class='nav-item'>";
+        }
+        ?>
+     <a class="nav-link" href="<?= base_url('Game'); ?>">
+         <i class="fas fa-gamepad"></i> <span>Game</span></a>
+     </li>
+
+     <!-- LOOPING MENU -->
+
+     <!-- Divider -->
+     <hr class="sidebar-divider d-none d-md-block">
+
+
+     <?php
         if ($title == 'Simulator') {
             echo "<li class='nav-item active'>";
         } else {
