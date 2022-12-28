@@ -1,6 +1,6 @@
 Code Dibuat dengan Framework PHP Code Igniter 3
 
-Beberapa Major Update dari Media Informatif sebelumnya adalah menambahkan Analogi Mapping dan Game Perulangan.
+Beberapa Major Update dari Media Informatif sebelumnya adalah menambahkan Analogi Mapping,Game Perulangan,Penambahan Forum Diskusi
 Game Perulangan dibuat dengan Construct 3 dan di deploy di website yang berbeda menggunakan vercelapp.
 Untuk Game perulangan sendiri dapat diakses melalui:
 https://games-simulasi-looping.vercel.app/
